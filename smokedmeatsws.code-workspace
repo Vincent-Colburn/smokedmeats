@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "smokedmeats-server"
+		},
+		{
+			"name": "client",
+			"path": "smokedmeats-client"
+		},
+		{
+			"name": "smokedmeats",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
