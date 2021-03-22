@@ -1,0 +1,7 @@
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.csprojAssemblyReference.cache
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.AssemblyInfoInputs.cache
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.AssemblyInfo.cs
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.csproj.CoreCompileInputs.cache
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.MvcApplicationPartsAssemblyInfo.cs
+C:\source\codeworks\postcodeworks\smokedmeats\smokedmeats-server\obj\Debug\net5.0\smokedmeats-server.MvcApplicationPartsAssemblyInfo.cache
