@@ -57,7 +57,7 @@ namespace smokedmeats_server
         {
             try
             {
-                Profile userInfo = await HttpContext
+                // Profile userInfo = await HttpContext;
 
             }
             catch (Exception e)
@@ -65,8 +65,6 @@ namespace smokedmeats_server
                 return BadRequest(e.Message);
             }
         }
-
-
 
 
     }
